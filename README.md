@@ -1,2 +1,2 @@
 # OpenGl
-Computer Graphics with OpenGL
+Computer Graphics with OpenGL Codes
